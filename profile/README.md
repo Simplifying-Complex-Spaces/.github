@@ -2,9 +2,9 @@
 *Mission:* 
 Helping folks get a handle on their data and advance their analysis 
 
-## Analyses Environments
+## Analysis Environments
 - RStudio Based:  [SCS-Analysis-R](https://github.com/Simplifying-Complex-Spaces/scs-analysis-r)
-- Jupyter Based:  [Jupyter](https://github.com/Simplifying-Complex-Spaces/scs-analysis-jupyter) 
+- Jupyter Based:  [SCS-Analysis-Jupyter](https://github.com/Simplifying-Complex-Spaces/scs-analysis-jupyter) 
 
 ## Examples
 1. [Gate Drop Analyis](https://github.com/Simplifying-Complex-Spaces/gate-drop-analysis): estimating gate drop times in professional MX/SX racing using linear models (scs-analysis-R)  
