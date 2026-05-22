@@ -1,6 +1,6 @@
 # Simplifying Complex Spaces
 *Mission:* 
-Helping folks get a handle on their data and advance their analysis 
+Helping folks get a handle on their data and advance their analyses 
 
 ## Analysis Environments
 - RStudio Based:  [SCS-Analysis-R](https://github.com/Simplifying-Complex-Spaces/scs-analysis-r)
